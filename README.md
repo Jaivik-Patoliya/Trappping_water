@@ -13,4 +13,4 @@ blue section : trapped water
 
 First we need to find when water is trapped. For each bar waterlevel is equal to minimum of leftboundry and rightboundry. Where leftboundry is maximum of leftside and right boundry is maximmum of right side.
 Trappped water is equal to diffrence between waterlevel and height of bar.
-And for total  Trappedwater sum the all trappedwater.
+And for total  Trappedwater is sum of all trappedwater.
